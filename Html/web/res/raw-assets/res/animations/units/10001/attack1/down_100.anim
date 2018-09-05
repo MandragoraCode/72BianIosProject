@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "down",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.55,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9818f514-1cde-489c-9d54-2d16bc54c0b7"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "6f6fe2dd-b71e-4fe7-a682-cdd17f10ac91"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e5387cde-9c73-406c-a506-7ee0f738198a"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "d59db983-7d5d-443d-99d5-23072cc06019"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "92a26156-c82b-4470-9724-b0450b973d91"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "80f8994c-1018-41a0-ab6a-9befc312218e"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "751a08fe-b788-4863-81d0-27a20982b13f"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "1e6327d2-ea97-4c44-bd1d-c6d2a219c407"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "6044cc97-87b8-4b9b-8171-67f18064a065"
+            }
+          },
+          {
+            "frame": 0.45,
+            "value": {
+              "__uuid__": "28478704-f836-47df-b64e-38b1b175f181"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e1b0ca6e-5955-4477-9511-80c56f70a892"
+            }
+          }
+        ]
+      }
+    },
+    "paths": {}
+  },
+  "events": []
+}

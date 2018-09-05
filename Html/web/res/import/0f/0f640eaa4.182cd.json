@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"miss","texture":"73zlXKvzlCMYkNSM7Octwg","rect":[2,2,65,39],"offset":[0,0],"originalSize":[65,39],"rotated":1}},{"__type__":"cc.SpriteAtlas","_name":"characters.plist","_spriteFrames":{"miss":{"__uuid__":"c4nqRQ9zJCsLi+qQUBnMQd"}}}]

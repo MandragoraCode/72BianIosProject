@@ -1,0 +1,1 @@
+[{"__type__":"cc.SpriteFrame","content":{"name":"RewardItemBg","texture":"e3TtVruaRL/5lwG584NTiZ","rect":[2,2,145,184],"offset":[0,0],"originalSize":[145,184],"capInsets":[30,30,30,30]}},{"__type__":"cc.SpriteAtlas","_name":"selectReward.plist","_spriteFrames":{"RewardItemBg":{"__uuid__":"4ei165QLxLRIABmwhKMaBc"}}}]
